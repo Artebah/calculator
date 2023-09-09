@@ -1,0 +1,9 @@
+@import url(./null.css);
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+body {
+  background: url(https://img3.akspic.ru/crops/2/1/3/3/7/173312/173312-minimalizm-dizajn-fioletovyj-polutona_i_ottenki-elektrik-1920x1080.jpg);
+}
+* {
+  transition: color, background 0.3s ease 0s;
+}
