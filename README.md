@@ -2,7 +2,7 @@
 A web calculator application built with React, TypeScript, SCSS and MUI
 
 ## Technologies
-* TypeScript (91.3%)
+* TypeScript
 * React
 * Material UI
 * Redux Toolkit
